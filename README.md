@@ -1,6 +1,8 @@
 ### Hi there 👋
-My Name Is Manmeet Singh
-Pursing B.Tech. in Information Technology From Guru Tegh Bahadur Institute of Technology.
+
+- 👨🏻 My Name Is Manmeet Singh
+
+- 📚 B.Tech. in Information Technology From Guru Tegh Bahadur Institute of Technology.
 
 - 🌱 I’m currently learning Web Development
 - 💬 Ask me about Python,C,MySQL
