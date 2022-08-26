@@ -4,9 +4,10 @@ Pursing B.Tech. in Information Technology From Guru Tegh Bahadur Institute of Te
 
 - 🌱 I’m currently learning Web Development
 - 💬 Ask me about Python,C,MySQL
-- 📫 How to reach me: 
-Instagram - https://www.instagram.com/manmeetsohal07/
-LinkedIn - https://www.linkedin.com/in/manmeet-singh-38a635213/
+- 📫 How to reach me:
+- Email ID : sohalmanmeet0@gmail.com 
+- Instagram : https://www.instagram.com/manmeetsohal07/
+- LinkedIn : https://www.linkedin.com/in/manmeet-singh-38a635213/
 
 
 [![Manmeet07's github stats](https://github-readme-stats.vercel.app/api?username=Manmeet07)](https://github.com/anuraghazra/github-readme-stats)
