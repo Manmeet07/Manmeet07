@@ -9,7 +9,7 @@
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/manmeet-singh-38a635213/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.9.0/icons/linkedin.svg" alt="manmeet-singh-38a635213" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manmeet-singh-38a635213/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.9.0/icons/linkedin.svg" alt="manmeetsingh07" height="30" width="40" /></a>
 <a href="https://instagram.com/manmeetsohal07/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.9.0/icons/instagram.svg" alt="manmeetsohal07" height="30" width="40" /></a>
  </p>
  
