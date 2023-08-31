@@ -3,7 +3,7 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Manmeet07 alt=Manmeet07/> </p>
 
 - 📚 I'm currently Pursuing **Information Technology** From **Guru Tegh Bahadur Institute of Technology**, **New Delhi**.
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Java Development**
 - 💬 Ask me about **Python, C, C++, MySQL**
 - 📫 Reach me at **sohalmanmeet10@gmail.com**
  
